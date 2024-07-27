@@ -54,4 +54,4 @@ I'm always open to collaborating on exciting projects that involve data science,
 He/Him
 
 # ⚡ Fun Fact
-I'm an avid learner and enjoy participating in hackathons and coding competitions. When I'm not coding, you can find me singing in the choir at the Anglican Church (EAR) or planning activities as the coordinator of my Rwanda family.
+I'm an avid learner and enjoy participating in hackathons and coding competitions. When I'm not coding, you can find me singing in the choir at the Anglican Church (EAR) or planning activities as the coordinator of my Rwanda Shine family.
