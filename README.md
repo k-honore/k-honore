@@ -27,6 +27,7 @@ I'm a passionate Data Scientist and Data Engineer with a strong background in ap
 # 💼 Professional Experience
 
 **Data Analyst at National Identification Agency (NIDA)**
+
   Filtering duplication data and separating it according to application IDs.
   
 **Freelance Front-End Developer**
@@ -44,9 +45,9 @@ I'm always open to collaborating on exciting projects that involve data science,
 # 📫 How to Reach Me
 **Email**: honorekarikumutima@gmail.com
 
-**LinkedIn**: Karikumutima Honore
+**LinkedIn**: [Karikumutima Honore](https://www.linkedin.com/in/honore-karikumutima-504576247/)
 
-**Twitter**: @ho1_honore
+**Twitter**: [@ho1_honore](https://x.com/ho1_honore)
 
 # 😄 Pronouns
 
